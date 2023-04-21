@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "reditcloneapi",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authreditcloned55d7390",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

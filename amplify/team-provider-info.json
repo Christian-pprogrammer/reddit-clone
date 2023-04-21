@@ -10,6 +10,17 @@
       "StackName": "amplify-reditclone-dev-73036",
       "StackId": "arn:aws:cloudformation:us-east-2:554708914546:stack/amplify-reditclone-dev-73036/45b0f490-de9d-11ed-836a-0212378d6559",
       "AmplifyAppId": "dofsupkfwr8co"
+    },
+    "categories": {
+      "auth": {
+        "reditcloned55d7390": {}
+      },
+      "api": {
+        "reditcloneapi": {}
+      },
+      "storage": {
+        "redditcloneimages": {}
+      }
     }
   }
 }
